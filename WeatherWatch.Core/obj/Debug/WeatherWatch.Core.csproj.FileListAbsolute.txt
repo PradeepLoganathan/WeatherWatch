@@ -1,0 +1,5 @@
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Core\bin\Debug\WeatherWatch.Core.dll
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Core\bin\Debug\WeatherWatch.Core.pdb
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Core\obj\Debug\WeatherWatch.Core.csprojResolveAssemblyReference.cache
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Core\obj\Debug\WeatherWatch.Core.dll
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Core\obj\Debug\WeatherWatch.Core.pdb

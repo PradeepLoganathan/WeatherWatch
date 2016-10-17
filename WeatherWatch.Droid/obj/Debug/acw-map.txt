@@ -1,0 +1,4 @@
+WeatherWatch.Droid.MainActivity, WeatherWatch.Droid;md5cc2786b4f867053de5e1a4e644a9fa49.MainActivity
+WeatherWatch.Droid.MainActivity, WeatherWatch.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cc2786b4f867053de5e1a4e644a9fa49.MainActivity
+WeatherWatch.Droid.MainActivity;md5cc2786b4f867053de5e1a4e644a9fa49.MainActivity
+weatherwatch.droid.MainActivity;md5cc2786b4f867053de5e1a4e644a9fa49.MainActivity

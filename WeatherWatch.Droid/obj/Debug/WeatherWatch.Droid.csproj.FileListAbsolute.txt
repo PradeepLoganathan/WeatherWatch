@@ -1,0 +1,14 @@
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\bin\Debug\WeatherWatch.Droid.dll
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\bin\Debug\WeatherWatch.Droid.pdb
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\bin\Debug\WeatherWatch.Droid.WeatherWatch.Droid.apk
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\bin\Debug\WeatherWatch.Droid.WeatherWatch.Droid-Signed.apk
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\WeatherWatch.Droid.dll
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\WeatherWatch.Droid.pdb
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\android\bin\WeatherWatch.Droid.WeatherWatch.Droid.apk
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\res\layout\main.xml
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\res\values\strings.xml
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\res\drawable\icon.png
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\R.cs.flag
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\uploadflags.txt
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\obj\Debug\WeatherWatch.Droid.dll.mdb
+E:\Pradeep\Development\WeatherWatch\WeatherWatch.Droid\bin\Debug\WeatherWatch.Droid.dll.mdb
