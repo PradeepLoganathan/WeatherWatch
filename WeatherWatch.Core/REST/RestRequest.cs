@@ -71,9 +71,10 @@ namespace WeatherWatch.Core.REST
             return this;
         }
 
-        private HttpRequestMessage PrepareRequest()
+        private HttpRequestMessage PrepareRequest(HttpMethod method)
         {
             StringBuilder sbQueryString = new StringBuilder();
+            string EndPoint = _endpoint;
 
             if (_QueryString != null)
             {
@@ -81,7 +82,15 @@ namespace WeatherWatch.Core.REST
                     AppendQueryString(sbQueryString, pair);
             }
 
+            if (_URLSegment != null)
+            {
+                foreach (KeyValuePair<string, string> pair in _URLSegment)
+                {
+                    EndPoint = EndPoint.Replace("{" + pair.Key + "}", pair.Value);
+                }
+            }
             
+            UriBuilder builder = new UriBuilder()
 
         }
 

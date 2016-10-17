@@ -14,8 +14,13 @@ namespace WeatherWatch.Core.REST
         internal JsonSerializer Serializer { get; set; }
         internal Uri BaseURL { get; set; }
         internal List<KeyValuePair<string, string>> QueryString { get; }
-        internal Encoding Encoding { get; }
-        
+        internal Encoding Encoding { get; } = new UTF8Encoding(false);
+
+        public RESTClient(Uri BaseURL, JsonSerializer Serializer )
+        {
+            this.BaseURL = BaseURL;
+            this.Serializer = Serializer;
+        }
 
         public int MaxRetryCount
         {
@@ -31,11 +36,17 @@ namespace WeatherWatch.Core.REST
                 return _MaxRetryCount;
             }
         }
-
         public void AddQueryString(string Key, string Value)
         {
             QueryString.Add(new KeyValuePair<string, string>(Key, Value));
         }
+
+        public RESTRequest Create(string endpoint)
+        {
+            return new RESTRequest(this, endpoint);
+        }
+
+        
 
 
     }
